@@ -1,2 +1,2 @@
 # Jogo Space Shooter
-Game desenvolvido durante o Bootcamp Órbi Web Games Developer, em mentoria da Gabriel Pinheiro, com o desafio de criar um jogo no estilo Space Shooter. Nele foi utilizado HTML, CSS e JavaScript, abordando manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
+Game desenvolvido durante o Bootcamp Órbi Web Games Developer, em mentoria da Gabriela Pinheiro, com o desafio de criar um jogo no estilo Space Shooter. Nele foi utilizado HTML, CSS e JavaScript, abordando manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
